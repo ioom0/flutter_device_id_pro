@@ -1,7 +1,7 @@
 name: flutter_device_id_pro
 description: "flutter_device_id_pro is a new update for flutter_device_id"
 version: 0.0.1
-homepage:
+homepage: https://github.com/ioom0/flutter_device_id_pro
 
 environment:
   sdk: ^3.6.0
